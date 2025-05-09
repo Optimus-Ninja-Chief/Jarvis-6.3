@@ -1,7 +1,7 @@
 # Jarvis-6.3
 JARVIS
 
-Hello This is THe Instructions Ofr The File, Jarvis.py
+Hello These are The Instructions For The File, Jarvis.py
 
 PLease Make Sure You Are Running Windows OS and Running Either Ver. 10 or 11 (Windows 11 Reccomended.)
 
